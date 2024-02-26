@@ -1,0 +1,16 @@
+2024-02-26 15:37:03,187 - INFO - fine_tuning:86 - File uploaded successfully. (file id: file-RpWoMj0l0bk5jSr439Y9qSlK)
+2024-02-26 15:37:03,187 - INFO - fine_tuning:86 - File uploaded successfully. (file id: file-RpWoMj0l0bk5jSr439Y9qSlK)
+2024-02-26 15:37:38,479 - INFO - fine_tuning:86 - File uploaded successfully. (file id: file-WgOMCoFelHa0i5O8sCd3LCO7)
+2024-02-26 15:37:38,479 - INFO - fine_tuning:86 - File uploaded successfully. (file id: file-WgOMCoFelHa0i5O8sCd3LCO7)
+2024-02-26 15:37:39,396 - INFO - fine_tuning:86 - Fine-tuning process started. (fine tune id: ftjob-BRGfeGXYDglNUBXa1xxbg8be)
+2024-02-26 15:37:39,396 - INFO - fine_tuning:86 - Fine-tuning process started. (fine tune id: ftjob-BRGfeGXYDglNUBXa1xxbg8be)
+2024-02-26 15:37:39,652 - INFO - fine_tuning:86 - Fine-tuning status: validating_files
+2024-02-26 15:37:39,652 - INFO - fine_tuning:86 - Fine-tuning status: validating_files
+2024-02-26 15:38:40,054 - DEBUG - fine_tuning:75 - [ft : ftjob-BRGfeGXYDglNUBXa1xxbg8be] I'm not sleeping...
+2024-02-26 15:39:40,329 - DEBUG - fine_tuning:75 - [ft : ftjob-BRGfeGXYDglNUBXa1xxbg8be] I'm not sleeping...
+2024-02-26 15:39:40,330 - INFO - fine_tuning:86 - Fine-tuning status: queued
+2024-02-26 15:39:40,330 - INFO - fine_tuning:86 - Fine-tuning status: queued
+2024-02-26 15:39:40,576 - INFO - fine_tuning:86 - Fine-tuning status: queued
+2024-02-26 15:39:40,576 - INFO - fine_tuning:86 - Fine-tuning status: queued
+2024-02-26 15:39:40,783 - INFO - fine_tuning:86 - {client.fine_tuning.jobs.retrieve(ft_id)}
+2024-02-26 15:39:40,783 - INFO - fine_tuning:86 - {client.fine_tuning.jobs.retrieve(ft_id)}
