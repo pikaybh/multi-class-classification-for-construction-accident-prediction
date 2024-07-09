@@ -1,6 +1,5 @@
 # Multi Class Classification for Construction Accident Prediction
 
-논문 좀 씁시다...
 
 ## Getting Started
 
